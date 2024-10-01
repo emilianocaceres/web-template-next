@@ -1,0 +1,89 @@
+{
+    "pages": {
+        "inbox": {
+            "title": "Casos Resueltos",
+            "addCase": "Anadir Caso"
+        },
+        "cases": {
+            "tabs": {
+                "identification": "Identificación",
+                "information": "Información",
+                "precedents": "Precedentes",
+                "transactions": "Transacciones",
+                "close": "Cierre"
+            }
+        }
+    },
+    "tables": {
+        "headers": {
+            "userFullName": "Apellido Y Nombre",
+            "email": "Correo Electrónico",
+            "caseNumber": "Nº Caso",
+            "validationDate": "Fecha de Validación",
+            "fiscalNumber": "Cuit",
+            "analysisDate": "Fecha de Análisis",
+            "risk": "Riesgo"
+        },
+        "pagination": {
+            "page": "Pagina",
+            "of": "De",
+            "rowsSelected": "Filas Seleccionadas",
+            "rowSelected": "Fila Seleccionada",
+            "rowPerPage": "Filas Por Página",
+            "goToFirstPage": "Ir A La Primera Página",
+            "goToLastPage": "Ir A La Última Página",
+            "goToNextPage": "Ir A La Siguiente Página",
+            "goToPreviousPage": "Ir A La Página Anterior",
+            "noResults": "Sin resultados"
+        }
+    },
+    "enums": {
+        "caseRisk": {
+            "low": "Bajo",
+            "medium": "Medio",
+            "high": "Alto"
+        }
+    },
+    "sidebar": {
+        "dashboard": "Dashboard",
+        "cases": "Casos",
+        "casesResolved": "Resueltos",
+        "casesNew": "Nuevos",
+        "inbox": "Bandeja de Entrada"
+    },
+    "misc": {
+        "verbs": {
+            "confirm": "Confirmar",
+            "cancel": "Cancelar",
+            "close": "Cerrar",
+            "accept": "Aceptar",
+            "start": "Empezar",
+            "next": "Siguiente",
+            "search": "Buscar",
+            "edit": "Editar",
+            "copy": "Copiar",
+            "fav": "Favoritos",
+            "label": "Etiquetar",
+            "delete": "Eliminar",
+            "export": "Exportar",
+            "save": "Guardar"
+        },
+        "nouns": {
+            "profile": "Perfil",
+            "billing": "Facturación",
+            "logOut": "Desconectarse",
+            "name": "Nombre",
+            "id": "Cuit/Cuil",
+            "email": "E-Mail",
+            "tel": "Teléfono",
+            "quota": "Cupo",
+            "status": "Estado",
+            "menu": "Menú",
+            "filter": "Filtrar",
+            "yes": "Sí",
+            "no": "No",
+            "filters": "Filtros"
+        },
+        "adjetives": {}
+    }
+}
